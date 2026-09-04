@@ -1,0 +1,10 @@
+101;Virat Kohli;India;37;Batsman;13848;5
+102;Rohit Sharma;India;39;Batsman;19400;47
+103;Jasprit Bumrah;India;32;Bowler;350;380
+104;Joe Root;England;35;Batsman;13000;90
+105;Steve Smith;Australia;37;Batsman;10500;28
+106;Kane Williamson;New Zealand;36;Batsman;10200;30
+107;Ravindra Jadeja;India;37;All Rounder;6000;550
+108;Ben Stokes;England;35;All Rounder;7000;220
+109;Babar Azam;Pakistan;31;Batsman;12000;0
+110;Pat Cummins;Australia;33;Bowler;1800;450
